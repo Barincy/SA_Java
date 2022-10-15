@@ -1,2 +1,3 @@
 LiangHongKai love Java
-Hello world!
+Create a Java program
+Everything was gone
